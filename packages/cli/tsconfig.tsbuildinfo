@@ -1,0 +1,1 @@
+{"root":["./src/ruby.tsx","./src/config/config.ts","./src/ui/app.tsx","./src/ui/types.ts","./src/ui/components/chathistory.tsx","./src/ui/components/header.tsx","./src/ui/components/inputprompt.test.tsx","./src/ui/components/inputprompt.tsx","./src/ui/components/messagedisplay.tsx","./src/ui/hooks/usechathistory.ts","./src/utils/version.ts"],"version":"5.9.2"}
